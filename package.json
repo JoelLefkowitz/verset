@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "ramda": "^0.30.0",
-    "reviewed": "0.9.1"
+    "reviewed": "^0.9.3"
   },
   "devDependencies": {
     "@types/glob": "^8.1.0",

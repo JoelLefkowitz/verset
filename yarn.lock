@@ -5126,10 +5126,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"reviewed@npm:0.9.1":
-  version: 0.9.1
-  resolution: "reviewed@npm:0.9.1"
-  checksum: 10c0/ef8db744e201fcb016f636d58804d9faa3fcb809c686339ad9d8f690bd06512ce489e715944853eea8b6c5ccc72e3596e28f8e18c97b68abbc68625f71087302
+"reviewed@npm:^0.9.3":
+  version: 0.9.3
+  resolution: "reviewed@npm:0.9.3"
+  checksum: 10c0/f88476c626f7ab9f72a158507138dcef469ec0d4a674a126297d9195c05195f4c86d5b8b8075a0a18b25e293aba424845dee49f5b66ae9b9e4d626993bc614f1
   languageName: node
   linkType: hard
 
@@ -5740,7 +5740,7 @@ __metadata:
     prettier: "npm:^3.0.0"
     prettier-plugin-jsdoc: "npm:^1.3.0"
     ramda: "npm:^0.30.0"
-    reviewed: "npm:0.9.1"
+    reviewed: "npm:^0.9.3"
     ts-jest: "npm:^29.0.0"
     ts-node: "npm:^10.9.2"
     tslib: "npm:^2.3.0"
