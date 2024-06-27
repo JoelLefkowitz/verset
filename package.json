@@ -1,7 +1,7 @@
 {
   "name": "verset",
   "description": "Set transformers.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "author": "Joel Lefkowitz",
   "repository": "https://github.com/joellefkowitz/sets",
