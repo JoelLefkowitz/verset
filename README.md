@@ -2,12 +2,12 @@
 
 Set transformers.
 
-![Review](https://img.shields.io/github/actions/workflow/status/JoelLefkowitz/verset/review.yml)
+![Review](https://img.shields.io/github/actions/workflow/status/JoelLefkowitz/verset/review.yaml)
 ![Version](https://img.shields.io/npm/v/verset)
 ![Downloads](https://img.shields.io/npm/dw/verset)
 ![Size](https://img.shields.io/bundlephobia/min/verset)
-![Quality](https://img.shields.io/codacy/grade/_)
-![Coverage](https://img.shields.io/codacy/coverage/_)
+![Quality](https://img.shields.io/codacy/grade/8bf9761224724dafbc4ee7136367485a)
+![Coverage](https://img.shields.io/codacy/coverage/8bf9761224724dafbc4ee7136367485a)
 
 ## Installing
 
